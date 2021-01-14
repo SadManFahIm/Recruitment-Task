@@ -1,18 +1,11 @@
-Sources Build: Creating .NET Web API Project, Force API to return JSON response only, Enable CORS.Create Models.
- API for Department Screen : GET.
- API for Department Screen : POST, PUT and DELETE.
- APIs for Employee Screen.
- Upload Photo API.
- Create Angular 10 Project.
- Generate Components and Services in the Angular Project.
- Add Service methods to consume APIs.
- Routing in Angular.
- Add Bootstrap to our Angular App.
- Navigation Menu using Bootstrap.
-Show Department Screen with Bootstrap Table.
-Modal PopUp Window using Bootstrap.
- Add and Edit Pop Up Screen for Department.
- Delete Department.
- Show Employee Screen with Bootstrap table.
- Upload Photo, Add and Edit Employee Details Pop Up Screen.
- Custom Sorting and Filtering to our Bootstrap table.
+creating  a chat application with a client in the browser using angular and backend in .net core. The backend Application using a data store in MS SQL Server.
+
+1.As a new user I can register myself with email address, first first and last name;
+
+2. After registration you can login with your emaill address (without a password);
+
+3.After logging in you have a list of users that you can start a chat with. Chats are always with only 2 users and (of course) Realtime.
+
+4. List of old chats (conversations); these chats can be deleted.
+
+5. The application should have a sign out possibility.
